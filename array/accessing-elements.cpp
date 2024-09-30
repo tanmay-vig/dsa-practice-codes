@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    int marks[5];
+    int marks[5]; 
+    
     cout << sizeof(marks)/sizeof(int) << endl;
     // Taking array elements as input
     cout << "Taking elements as input : \n";
